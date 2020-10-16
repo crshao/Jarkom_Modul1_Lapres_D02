@@ -12,4 +12,22 @@ Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
 ```
 http.host == testing.mekanis.me
 ```
-![alt text](image/1.png)
+![alt img1](image/1.png)
+
+##### Nomor 2
+Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
+
+```
+Export Objects > HTTP > Search "TIM"
+```
+![alt img2a](image/2a.png)
+![alt img2b](image/2b.jpg)
+
+##### Nomor 3
+Cari username dan password ketika login di "ppid.dpr.go.id"!
+
+```
+http.request.method == POST
+```
+
+![alt img3](image/3.png)
