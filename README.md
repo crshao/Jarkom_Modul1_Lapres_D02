@@ -6,4 +6,9 @@
 
 -Alie Husaini R. 05111840000097
 
-###Nomor 1
+##### Nomor 1
+Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
+
+```
+http.host == testing.mekanis.me
+```
