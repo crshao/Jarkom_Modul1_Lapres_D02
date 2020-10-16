@@ -113,7 +113,7 @@ Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 ```
 ip src 192.168.43.199
 ```
-![alt image14a](image/14a.png)]
+![alt image14a](image/14a.png)
 ![alt image14b](image/14b.png)
 
 ##### Nomor 15
